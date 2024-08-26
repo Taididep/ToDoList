@@ -1,0 +1,14 @@
+D:\Study\2. Smart Application Software Development\Project\ToDoList\ToDoList\obj\Debug\ToDoList.Client.csproj.AssemblyReference.cache
+D:\Study\2. Smart Application Software Development\Project\ToDoList\ToDoList\obj\Debug\ToDoList.Client.frm_Login.resources
+D:\Study\2. Smart Application Software Development\Project\ToDoList\ToDoList\obj\Debug\ToDoList.Properties.Resources.resources
+D:\Study\2. Smart Application Software Development\Project\ToDoList\ToDoList\obj\Debug\ToDoList.Client.csproj.GenerateResource.cache
+D:\Study\2. Smart Application Software Development\Project\ToDoList\ToDoList\obj\Debug\ToDoList.Client.csproj.CoreCompileInputs.cache
+D:\Study\2. Smart Application Software Development\Project\ToDoList\ToDoList\obj\Debug\ToDoList.exe
+D:\Study\2. Smart Application Software Development\Project\ToDoList\ToDoList\obj\Debug\ToDoList.pdb
+D:\Study\2. Smart Application Software Development\Project\ToDoList\ToDoList\bin\Debug\ToDoList.exe.config
+D:\Study\2. Smart Application Software Development\Project\ToDoList\ToDoList\bin\Debug\ToDoList.exe
+D:\Study\2. Smart Application Software Development\Project\ToDoList\ToDoList\bin\Debug\ToDoList.pdb
+D:\Study\2. Smart Application Software Development\Project\ToDoList\ToDoList\bin\Debug\class_Controls.dll
+D:\Study\2. Smart Application Software Development\Project\ToDoList\ToDoList\bin\Debug\class_Controls.pdb
+D:\Study\2. Smart Application Software Development\Project\ToDoList\ToDoList\obj\Debug\ToDoList.E8CCBF17.Up2Date
+D:\Study\2. Smart Application Software Development\Project\ToDoList\ToDoList\obj\Debug\ToDoList.Client.frm_Main.resources

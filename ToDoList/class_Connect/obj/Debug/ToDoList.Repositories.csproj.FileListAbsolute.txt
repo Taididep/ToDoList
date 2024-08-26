@@ -1,0 +1,6 @@
+D:\Study\2. Smart Application Software Development\Project\ToDoList\class_Connect\bin\Debug\class_Connect.dll
+D:\Study\2. Smart Application Software Development\Project\ToDoList\class_Connect\bin\Debug\class_Connect.pdb
+D:\Study\2. Smart Application Software Development\Project\ToDoList\class_Connect\obj\Debug\ToDoList.Repositories.csproj.AssemblyReference.cache
+D:\Study\2. Smart Application Software Development\Project\ToDoList\class_Connect\obj\Debug\ToDoList.Repositories.csproj.CoreCompileInputs.cache
+D:\Study\2. Smart Application Software Development\Project\ToDoList\class_Connect\obj\Debug\class_Connect.dll
+D:\Study\2. Smart Application Software Development\Project\ToDoList\class_Connect\obj\Debug\class_Connect.pdb
